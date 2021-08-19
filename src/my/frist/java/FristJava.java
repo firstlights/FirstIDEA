@@ -5,6 +5,6 @@ public class FristJava {
         System.out.println("hellow World 1");
         System.out.println("hellow World 2");
         System.out.println("hellow World 6");
-        System.out.println("mater test");
+        System.out.println("master test3");
     }
 }
