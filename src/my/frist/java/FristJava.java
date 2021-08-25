@@ -7,5 +7,6 @@ public class FristJava {
         System.out.println("hellow World 6");
         System.out.println("master test3");
         System.out.println("hot-fix test");
+        System.out.println("push test");
     }
 }
